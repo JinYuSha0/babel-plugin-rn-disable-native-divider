@@ -2,7 +2,7 @@
 
 fix crash [Animated node with tag (child) [xxxx] does not exist](https://github.com/facebook/react-native/issues/33686)
 
-# Home to use
+# How to use
 
 ```
 yarn install babel-plugin-rn-disable-native-divider -D
