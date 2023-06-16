@@ -5,7 +5,7 @@ fix crash [Animated node with tag (child) [xxxx] does not exist](https://github.
 # How to use
 
 ```
-yarn install babel-plugin-rn-disable-native-divider -D
+yarn add babel-plugin-rn-disable-native-divider -D
 ```
 
 ```javascript
