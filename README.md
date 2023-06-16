@@ -9,7 +9,7 @@ yarn install babel-plugin-rn-disable-native-divider -D
 ```
 
 ```javascript
-//
+// babel.config.js
 module.exports = {
   presets: ["module:metro-react-native-babel-preset"],
   plugins: [
